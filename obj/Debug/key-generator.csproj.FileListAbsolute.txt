@@ -1,0 +1,12 @@
+C:\Users\aslihan\source\repos\key-generator\key-generator\bin\Debug\key-generator.exe.config
+C:\Users\aslihan\source\repos\key-generator\key-generator\bin\Debug\key-generator.exe
+C:\Users\aslihan\source\repos\key-generator\key-generator\bin\Debug\key-generator.pdb
+C:\Users\aslihan\source\repos\key-generator\key-generator\bin\Debug\SKGL.dll
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key-generator.csprojAssemblyReference.cache
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key_generator.Form1.resources
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key_generator.Properties.Resources.resources
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key-generator.csproj.GenerateResource.cache
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key-generator.csproj.CoreCompileInputs.cache
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key-generator.csproj.CopyComplete
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key-generator.exe
+C:\Users\aslihan\source\repos\key-generator\key-generator\obj\Debug\key-generator.pdb
